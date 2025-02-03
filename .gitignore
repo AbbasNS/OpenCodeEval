@@ -1,0 +1,12 @@
+# Python
+*my*
+*jr*
+*vllm*
+__pycache__/
+database/
+save/
+*.pyc
+*.sqlite
+*.sql
+*.zip
+*.csv
